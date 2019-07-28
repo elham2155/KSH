@@ -1,0 +1,150 @@
+﻿body {
+    font : tahoma;
+	font-size:10pt;
+}
+/*Table Style*/
+.Table1000 {
+    width: 1000px;
+    border-collapse: collapse;
+    background-image: url('images/body.bmp');
+}
+.Table945 {
+    width: 945px;
+    border-collapse: collapse;    
+}
+.Table940 {
+    width: 940px;
+    border-collapse: collapse;    
+}
+.Table90P
+{
+	width: 94%;
+}
+.Table80P
+{
+	width: 80%;
+}
+.Table50P
+{
+	width: 50%;
+}
+/*Label Style*/
+.label
+{
+	font-family: Tahoma;
+	font-size: 10pt;
+	text-align: center;
+	color: #000000;
+}
+.greenLbl
+{
+	font-family: Tahoma;
+	font-size: 10pt;
+	text-align: center;
+	color: #4A583F;
+}
+.MsgLbl {
+    font-family: 'B Nazanin';
+    font-size: 13pt;
+    text-align: center;
+    color: #990000;
+    background-color: #FFAAAA;
+    font-weight: bold;
+}
+.MsgLblLink {
+    font-family: 'B Nazanin';
+    font-size: 13pt;
+    text-align: center;
+    color: #003366;
+    background-color: #97CBFF;
+    font-weight: bold;
+}
+.RedLbl
+{
+	font-family: Tahoma;
+	font-size: 10pt;
+	text-align: left;
+	color: #993635;
+}
+.BigLabel
+{
+	font-family: B Nazanin;
+	font-size: 20pt;
+	text-align: center;
+	color: #000000;
+}
+/* Button Style */
+.Bigbtn
+{
+	border-color: #556447;
+	font-family: B Nazanin;
+	font-size: 18px;
+	border-width: 1pt;
+	background-color: #556447;
+	color: #FFFFFF;
+	cursor: hand;
+	height: 30px;
+}
+.btn
+{
+	border-color: #556447;
+	font-family: Tahoma;
+	font-size: 11px;
+	border-width: 1pt;
+	background-color: #556447;
+	color: #FFFFFF;
+	cursor: hand;
+	}
+/* TextBox Style */
+.txtBigLtr {
+    border-color: #556447;
+    border-width: 1px;
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    background-color: #9CAE8C;
+    width: 180px;
+    height: 35px;
+    font-weight: bold;
+    vertical-align: top;
+}
+.txtMediumLtr {
+    border-color: #556447;
+    border-width: 1px;
+    font-size: 12px;
+    font-family: Tahoma;
+    text-align: left;
+    background-color: #9CAE8C;
+    width: 120px;
+    height: 20px;
+}
+.txtMediumRtl {
+    border-color: #556447;
+    border-width: 1px;
+    font-size: 12px;
+    font-family: Tahoma;
+    text-align: Right;
+    background-color: #9CAE8C;
+    width: 120px;
+    height: 20px;
+}
+/*Image Style*/
+.PersonelImage {
+    background-position: center center;
+    border-color: #5C5C2E;
+    border-width: 1px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;    
+    background-image: url('Images/Person.jpg');
+    background-repeat: no-repeat;
+}
+/*DropDownList Style*/
+.ddListR {
+    font-family: Tahoma;
+    font-size: 10pt;
+    text-align: right;
+    color: #000000;
+    font-weight: normal;
+}
